@@ -1,4 +1,4 @@
-# Bycycle-Manufacturing-Analysis
+# Bicycle-Manufacturing-Analysis
 
 # Data Analysis of Bicycle Manufacturing Company Using Python, SQL and Power BI
  
